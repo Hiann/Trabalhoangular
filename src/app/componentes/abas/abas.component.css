@@ -30,3 +30,13 @@ p {
     background-color: burlywood;
   }
   
+
+@media (max-width:1080px) {
+  .example-card {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  img {
+    height: 130px;
+  }
+}
