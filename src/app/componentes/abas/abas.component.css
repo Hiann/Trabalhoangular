@@ -20,6 +20,7 @@ img {
 p {
     margin-left: 20px;
     font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
   }
 
   mat-card {
@@ -30,7 +31,7 @@ p {
     background-color: burlywood;
   }
   
-
+ 
 @media (max-width:1080px) {
   .example-card {
     margin-left: 10px;
